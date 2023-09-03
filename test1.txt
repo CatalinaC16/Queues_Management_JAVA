@@ -1,0 +1,309 @@
+
+Timp 0
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 1
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 2
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 3
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 4
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 5
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 6
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 7
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(3,8,3)(2,14,4)(4,29,4)(1,30,3)
+Timp 8
+Coada 1 -> (3,8,3) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(2,14,4)(4,29,4)(1,30,3)
+Timp 9
+Coada 1 -> (3,8,2) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(2,14,4)(4,29,4)(1,30,3)
+Timp 10
+Coada 1 -> (3,8,1) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(2,14,4)(4,29,4)(1,30,3)
+Timp 11
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(2,14,4)(4,29,4)(1,30,3)
+Timp 12
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(2,14,4)(4,29,4)(1,30,3)
+Timp 13
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(2,14,4)(4,29,4)(1,30,3)
+Timp 14
+Coada 1 -> (2,14,4) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 15
+Coada 1 -> (2,14,3) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 16
+Coada 1 -> (2,14,2) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 17
+Coada 1 -> (2,14,1) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 18
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 19
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 20
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 21
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 22
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 23
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 24
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 25
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 26
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 27
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 28
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,29,4)(1,30,3)
+Timp 29
+Coada 1 -> (4,29,4) 
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:(1,30,3)
+Timp 30
+Coada 1 -> (4,29,3) 
+Coada 2 -> (1,30,3) 
+
+Clienti care trebuie pusi la coada:
+Timp 31
+Coada 1 -> (4,29,2) 
+Coada 2 -> (1,30,2) 
+
+Clienti care trebuie pusi la coada:
+Timp 32
+Coada 1 -> (4,29,1) 
+Coada 2 -> (1,30,1) 
+
+Clienti care trebuie pusi la coada:
+Timp 33
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 34
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 35
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 36
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 37
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 38
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 39
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 40
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 41
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 42
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 43
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 44
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 45
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 46
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 47
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 48
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 49
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 50
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 51
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 52
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 53
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 54
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 55
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 56
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 57
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 58
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 59
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 60
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timpul mediu de asteptare este 0.0
+Timpul mediu de procesare este 3.5
+Timpul de varf este 30

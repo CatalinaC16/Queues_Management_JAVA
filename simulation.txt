@@ -1,0 +1,100 @@
+
+Timp 0
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+Coada 3 -> inchisa
+
+Clienti care trebuie pusi la coada:(5,2,4)(4,3,3)(10,3,2)(2,4,2)(6,4,4)(1,5,4)(3,5,4)(8,6,3)(9,6,2)(7,7,3)
+Timp 1
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+Coada 3 -> inchisa
+
+Clienti care trebuie pusi la coada:(5,2,4)(4,3,3)(10,3,2)(2,4,2)(6,4,4)(1,5,4)(3,5,4)(8,6,3)(9,6,2)(7,7,3)
+Timp 2
+Coada 1 -> (5,2,4) 
+Coada 2 -> inchisa
+Coada 3 -> inchisa
+
+Clienti care trebuie pusi la coada:(4,3,3)(10,3,2)(2,4,2)(6,4,4)(1,5,4)(3,5,4)(8,6,3)(9,6,2)(7,7,3)
+Timp 3
+Coada 1 -> (5,2,3) 
+Coada 2 -> (4,3,3) 
+Coada 3 -> (10,3,2) 
+
+Clienti care trebuie pusi la coada:(2,4,2)(6,4,4)(1,5,4)(3,5,4)(8,6,3)(9,6,2)(7,7,3)
+Timp 4
+Coada 1 -> (5,2,2) (2,4,2) 
+Coada 2 -> (4,3,2) (6,4,4) 
+Coada 3 -> (10,3,1) 
+
+Clienti care trebuie pusi la coada:(1,5,4)(3,5,4)(8,6,3)(9,6,2)(7,7,3)
+Timp 5
+Coada 1 -> (5,2,1) (2,4,2) 
+Coada 2 -> (4,3,1) (6,4,4) 
+Coada 3 -> (1,5,4) (3,5,4) 
+
+Clienti care trebuie pusi la coada:(8,6,3)(9,6,2)(7,7,3)
+Timp 6
+Coada 1 -> (2,4,2) (8,6,3) 
+Coada 2 -> (6,4,4) (9,6,2) 
+Coada 3 -> (1,5,3) (3,5,4) 
+
+Clienti care trebuie pusi la coada:(7,7,3)
+Timp 7
+Coada 1 -> (2,4,1) (8,6,3) (7,7,3) 
+Coada 2 -> (6,4,3) (9,6,2) 
+Coada 3 -> (1,5,2) (3,5,4) 
+
+Clienti care trebuie pusi la coada:
+Timp 8
+Coada 1 -> (8,6,3) (7,7,3) 
+Coada 2 -> (6,4,2) (9,6,2) 
+Coada 3 -> (1,5,1) (3,5,4) 
+
+Clienti care trebuie pusi la coada:
+Timp 9
+Coada 1 -> (8,6,2) (7,7,3) 
+Coada 2 -> (6,4,1) (9,6,2) 
+Coada 3 -> (3,5,4) 
+
+Clienti care trebuie pusi la coada:
+Timp 10
+Coada 1 -> (8,6,1) (7,7,3) 
+Coada 2 -> (9,6,2) 
+Coada 3 -> (3,5,3) 
+
+Clienti care trebuie pusi la coada:
+Timp 11
+Coada 1 -> (7,7,3) 
+Coada 2 -> (9,6,1) 
+Coada 3 -> (3,5,2) 
+
+Clienti care trebuie pusi la coada:
+Timp 12
+Coada 1 -> (7,7,2) 
+Coada 2 -> inchisa
+Coada 3 -> (3,5,1) 
+
+Clienti care trebuie pusi la coada:
+Timp 13
+Coada 1 -> (7,7,1) 
+Coada 2 -> inchisa
+Coada 3 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 14
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+Coada 3 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timp 15
+Coada 1 -> inchisa
+Coada 2 -> inchisa
+Coada 3 -> inchisa
+
+Clienti care trebuie pusi la coada:
+Timpul mediu de asteptare este 1.8
+Timpul mediu de procesare este 4.9
+Timpul de varf este 7
